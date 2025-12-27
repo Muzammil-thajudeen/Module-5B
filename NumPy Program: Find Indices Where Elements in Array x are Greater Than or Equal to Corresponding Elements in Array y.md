@@ -33,5 +33,5 @@ print(arr)
 
 
 ## Result
-<img width="1569" height="997" alt="image" src="https://github.com/user-attachments/assets/dccf9d33-edf4-4492-b32c-e82f446d22ec" />
+The NumPy program successfully deletes the second column from a given 2D array and inserts a new column at the same position.
 
